@@ -1,0 +1,45 @@
+body {
+    background: url("image/bg.jpg") no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+#center{
+    text-align: center;
+}
+ul{
+    display:inline-block;
+}
+.container-fluid{
+    font-size: 1.5rem;
+    color: aliceblue;
+    padding-left: 1rem;
+}
+.navbar-nav a{
+    font-size: 1.4rem;
+    color: black;
+}
+img{
+    border-radius: 15px;
+    border: 1px solid white;
+
+}
+section h1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+i{
+    font-size: 1.5rem;
+}
+.btn-group{
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+#selected{
+    text-align: center;
+    font-weight: bold;
+}
+section h3{
+    padding-top: 3rem;
+}
